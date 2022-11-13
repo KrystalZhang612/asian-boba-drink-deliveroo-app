@@ -119,6 +119,8 @@ import Image from "next/image";
 ...
   <Image src="/img/telephone.png" alt="" width="32" height="32" />
 ```
+Order Now telephone symbol is imported:<br/> 
+[order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
 
 
 
@@ -130,7 +132,7 @@ import Image from "next/image";
 
 # Testing Result 
 [red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
-
+[order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
 
 
 
