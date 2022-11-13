@@ -86,7 +86,23 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 # Prerequisites & Setups
-
+In Vscode Console:
+```bash
+npx create-next-app
+```
+Install all Next.js properties using` . `<br/>
+Install Yarn globally using sudo npm: 
+```bash
+sudo npm install -g yarn
+```
+Check if yarn installed and at latest version:
+```bash 
+yarn --version
+```
+Start the localhost server at www.localhost:3000 
+```bash
+yarn dev
+```
 
 
 
