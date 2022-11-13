@@ -1,6 +1,12 @@
 # KrystalZhang612-Asian-Boba-Drink-Deliveroo-App
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). A responsive Full-Stack Asian-Boba-delivering website using Next.js and MongoDB. This project contains a frontend-side, which are a homepage, product pages, cart total & a payment selection page to submit name & address & phone number details & checkout, with data fetched from MongoDB integration, and a backend-side Admin Dashboard as a merchant to receive payments. The user can choose any size, additional toppings and quantities into carts. The JS Redux library helps increase quantity numbers, and the PayPal library helps generate fake transactions. The amount increases immediately as the user makes a purchase. ***I have learned Next.js, MongoDB integration, server-side rendering, and tremendous knowledge of how to use cookies for authentication from implementing this project.*** 
+## ***[Copyright and Commercial Use Disclaimer]()***
+⏬
+
+###***Please carefully read LICENSE.md about the Open Source restrictions and the personal use policy of this project under GPL-3.0 license, any commericial uses on this project by other than the owner @KrystalZhang612 or the authorized users and organizations, including unauthorized modifications, forks, pull requests, and other commercial-related uses will be subjected to copyright violation with sebsequent legal concerns.***
+
+## Asian Boba Drink Deliveroo AppApp Overview: 
 
 
 
