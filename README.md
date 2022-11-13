@@ -64,5 +64,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Product Page: http://localhost:3000/product/213 
 ### Cart Page: http://localhost:3000/cart
 ### Order Delivery Status: http://localhost:3000/orders/21
+#  🛠️  Developing Languages, Tools, and Techniques Needed
+
 
 
