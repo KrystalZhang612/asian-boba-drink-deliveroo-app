@@ -36,7 +36,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [Testing Result](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#testing-result)<br/> 
 [Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#tags-and-topics) 
 # Contribution
-[Author]()
+[Author](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#author)
 # Functionalities/Demo
 - A nice slider on top to show the list of boba drinks and their features.
 - In the cart page, the user can view what products they have chosen.
