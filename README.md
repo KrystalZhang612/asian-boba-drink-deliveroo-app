@@ -33,7 +33,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#prerequisites--setups)<br/> 
 [Debugging&Troubleshooting]()<br/> 
 [Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#synchronous-developing-notes)<br/> 
-[Testing Result]()<br/> 
+[Testing Result](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#testing-result)<br/> 
 [Tags and Topics]() 
 # Contribution
 [Author]()
@@ -112,7 +112,25 @@ Create [Navbar.module.css](https://github.com/KrystalZhang612/KrystalZhang612-As
     background-color: red;
 ```
 Test if navbar CSS styling works:<br/>
+[red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
+In [Navbar.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/components/Navbar.jsx):
+```JavaScript 
+import Image from "next/image";
+...
+  <Image src="/img/telephone.png" alt="" width="32" height="32" />
+```
+
+
+
+
+
+
+
+
+
 # Testing Result 
+[red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
+
 
 
 
