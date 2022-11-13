@@ -103,6 +103,7 @@ Start the localhost server at www.localhost:3000
 ```bash
 yarn dev
 ```
+# Synchronous Developing Notes
 
 
 
