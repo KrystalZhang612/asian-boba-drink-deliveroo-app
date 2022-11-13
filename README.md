@@ -54,7 +54,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 | Opera              | :white_check_mark: |
 | DuckDuckGo         | :white_check_mark: |
 
-
+# Method to Run & Test the Project Locally
 
 
 
