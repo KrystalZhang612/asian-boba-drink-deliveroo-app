@@ -151,6 +151,29 @@ Import popular featured items with customized copyrighted images and set layout 
 ```
 Now imported featured items images displayed and size filled out the background properly:<br/> 
 [imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
+Add horizontal slider to allow user to slide to view featured items horizontally:
+```css
+.wrapper{
+    width: 300vw;
+    height: 100%;
+    display: flex;
+}
+.imgContainer{
+    width: 100vw;
+    height: 100%;
+    position: relative;
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
