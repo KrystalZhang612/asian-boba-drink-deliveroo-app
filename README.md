@@ -38,7 +38,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # Contribution
 [Author]()
 # Functionalities/Demo
-
+- A nice slider on top to show the list of boba drinks and their features.
+- In the cart page, the user can view what products they have chosen.
+- There are two checkout options when the user clicks to pay: Cash on delivery or PayPal.
+- The customer will be redirected to the order status page to track after submitting payment. - The user can see all their previous orders and their payment statuses: paid/unpaid.
+- As the merchant/Admin, we can always add new items(new boba drinks) to the homepage.
 
 
 
