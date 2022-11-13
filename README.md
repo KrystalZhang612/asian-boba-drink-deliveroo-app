@@ -104,6 +104,19 @@ Start the localhost server at www.localhost:3000
 yarn dev
 ```
 # Synchronous Developing Notes
+## ***NavBar Design:***
+Create a basic template inn [Navbar.jsx]().
+
+
+
+
+
+
+
+
+
+
+
 
 
 
