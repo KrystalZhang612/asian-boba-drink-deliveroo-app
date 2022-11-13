@@ -254,6 +254,13 @@ toppings!</h3>
     <div className = {styles.option}>
 <input...
 ```
+Modify all icons, buttons and checkboxes stylings then we got:<br/> 
+[product page is done designing.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/product%20page%20is%20done%20designing.png)<br/>
+## ***Shopping Cart Design:***
+
+
+
+
 
 
 
@@ -264,11 +271,27 @@ toppings!</h3>
 
 
 # Debugging&Troubleshooting
- CSS ERROR: Product not showing in localhost:3000/product/213 page. <br/>
+- CSS ERROR: Product not showing in localhost:3000/product/213 page. <br/>
  DEBUGGING: In [Product.module.css](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/styles/Product.module.css). Leave space for 
  ```css
  height: calc(100vh - 100px);
 ```
+- WEB SERVER ERROR: Unhandled Runtime Error: Error: Hydration failed because the initial UI
+does not match what was rendered on the server. See more info here: https://nextjs.org/docs/messages/react-hydration-error.
+DEBUGGING: Latest React server not comfortable with using table without having tbody. So replace `<table><tr>...</tr></table>` with
+`<table><tbody><tr>...</tr></tbody></table>`. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Testing Result 
 [red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
@@ -277,6 +300,8 @@ toppings!</h3>
 [imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
 [template products listings displayed.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/template%20products%20listings%20displayed.png)<br/>
 [footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/footer%20design%20is%20done.png)<br/>
+[product page is done designing.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/product%20page%20is%20done%20designing.png)<br/>
+
 
 
 
