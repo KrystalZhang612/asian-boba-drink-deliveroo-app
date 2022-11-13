@@ -10,7 +10,6 @@
     text-align: left; 
     margin-bottom: 50px; 
 }
-
 .row:last-child{
     width: 80%; 
     display: flex; 
@@ -45,7 +44,6 @@
 .inProgress .checkedIcon {
     display: none; 
 }
-
 .right{
     flex: 1; 
 }
