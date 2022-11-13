@@ -257,18 +257,73 @@ toppings!</h3>
 Modify all icons, buttons and checkboxes stylings then we got:<br/> 
 [product page is done designing.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/product%20page%20is%20done%20designing.png)<br/>
 ## ***Shopping Cart Design:***
-
-
-
-
-
-
-
-
-
-
-
-
+Import shopping cart items in [cart.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/pages/cart.jsx):
+```JavaScript 
+<div className={styles.container}>
+            <div className={styles.left}>
+                <table className={styles.table}>
+                    <tbody className={styles.tbody}>
+                        <tr className={styles.tr}>
+                            <th>Product</th>
+                            <th>Name</th>
+                            <th>Extras</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Total</th>
+</tr>
+```
+Adjust shopping cart icon and its button CSS stylings in [cart.module.css](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/styles/cart.module.css):
+```css
+.wrapper{
+    width: 90%;
+    max-height: 300px;
+    background-color: #333;
+    padding: 50px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+}
+.totalTextTitle{
+    margin-right:10px;
+}
+```
+Now we have a well-designed shopping cart page at localhost:3000/cart:<br/>
+[shopping cart total page for checkout.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/shopping%20cart%20total%20page%20for%20checkout.png)<br/>
+## ***Order Tracking Pages:***
+Create different statuses in [id.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/pages/orders/%5Bid%5D.jsx) and import corresponding images:
+```JavaScript
+const Order = () => {
+    const status = 0
+    const statusClass = (index) => {
+        if (index - status < 1) return styles.done;
+        if (index - status === 1) return styles.inProgress;
+        if (index - status > 1) return styles.undone;
+};
+```
+Add CSS animation stylings to the order status in [Order.module.css](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/styles/Order.module.css):
+```css
+.row:last-child{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+} .done{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inProgress{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: inProgress 1s ease infinite alternate;
+}
+```
+[order status page design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20status%20page%20design%20is%20done.png)<br/> 
+Next.js responsive page design:<br/> 
+Use `@media screen and (max-width: 480px){...}` to make responsive effects.<br/> 
+Add multiple boba cards in the homepage.
 
 # Debugging&Troubleshooting
 - CSS ERROR: Product not showing in localhost:3000/product/213 page. <br/>
@@ -281,18 +336,6 @@ does not match what was rendered on the server. See more info here: https://next
 DEBUGGING: Latest React server not comfortable with using table without having tbody. So replace `<table><tr>...</tr></table>` with
 `<table><tbody><tr>...</tr></tbody></table>`. 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Testing Result 
 [red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
 [order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
@@ -301,6 +344,9 @@ DEBUGGING: Latest React server not comfortable with using table without having t
 [template products listings displayed.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/template%20products%20listings%20displayed.png)<br/>
 [footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/footer%20design%20is%20done.png)<br/>
 [product page is done designing.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/product%20page%20is%20done%20designing.png)<br/>
+[shopping cart total page for checkout.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/shopping%20cart%20total%20page%20for%20checkout.png)<br/>
+`NOTE`: Use `display: flex` in CSS `container` to make items align horizontally.<br/>
+[order status page design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20status%20page%20design%20is%20done.png)<br/> 
 
 
 
