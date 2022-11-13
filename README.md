@@ -137,6 +137,20 @@ Import and add more CSS stylings designs to the list items and cart:
     font-weight: bold;
     color: #ff00aa;
 ```
+[navigation bar design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/navigation%20bar%20design%20is%20done.png)<br/>
+## ***Slider Design:***
+Import popular featured items with customized copyrighted images and set layout as fill:
+```JavaScript 
+ <div className={styles.wrapper}>
+          <div className={styles.imgContainer}>
+        {images.map((img, i) => (
+    <Image src="/img/featured.png" key={i} alt="" layout="fill" />
+))}
+             </div>
+         </div>
+```
+Now imported featured items images displayed and size filled out the background properly:<br/> 
+[imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
 
 
 
@@ -147,8 +161,8 @@ Import and add more CSS stylings designs to the list items and cart:
 # Testing Result 
 [red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
 [order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
-
-
+[navigation bar design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/navigation%20bar%20design%20is%20done.png)<br/>
+[imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
 
 
 
