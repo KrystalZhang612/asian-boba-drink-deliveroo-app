@@ -106,13 +106,11 @@ yarn dev
 # Synchronous Developing Notes
 ## ***NavBar Design:***
 Create a basic template inn [Navbar.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/components/Navbar.jsx).<br/>
-
-
-
-
-
-
-
+Create [Navbar.module.css](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/styles/Navbar.module.css):
+```css
+.container{
+    background-color: red;
+```
 
 
 
