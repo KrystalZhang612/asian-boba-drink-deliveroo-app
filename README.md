@@ -111,6 +111,8 @@ Create [Navbar.module.css](https://github.com/KrystalZhang612/KrystalZhang612-As
 .container{
     background-color: red;
 ```
+Test if navbar CSS styling works:<br/>
+# Testing Result 
 
 
 
