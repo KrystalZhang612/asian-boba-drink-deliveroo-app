@@ -25,7 +25,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img width="1691" alt="Asian Boba Drink Deliveroo App Overview-9" src="https://user-images.githubusercontent.com/72481348/201518668-330ed116-1392-44f0-bc77-edf17c6a58a2.png">
 
-<img width = "1691" alt ="Asian Boba Drink Deliveroo App Overview-10" src = "ttps://user-images.githubusercontent.com/72481348/201518719-5d468ea7-1528-4dd7-97aa-523adaaf81dd.mov"/> 
+<img width = "1691" alt ="Asian Boba Drink Deliveroo App Overview-10" src = "ttps://user-images.githubusercontent.com/72481348/201518719-5d468ea7-1528-4dd7-97aa-523adaaf81dd.mov"> 
 
 
 
