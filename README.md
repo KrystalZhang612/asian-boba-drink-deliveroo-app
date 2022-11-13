@@ -65,6 +65,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Cart Page: http://localhost:3000/cart
 ### Order Delivery Status: http://localhost:3000/orders/21
 #  🛠️  Developing Languages, Tools, and Techniques Needed
+[Vscode 1.73.1](https://code.visualstudio.com/updates/v1_73)<br/> 
+[Next.JS](https://nextjs.org/)<br/> 
+[Yarn 1.22.19](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)<br/> 
+[npm package](https://www.npmjs.com/)<br/> 
+[React JSX JavaScript XML](https://reactjs.org/docs/introducing-jsx.html)<br/> 
+[JavaScript](www.javascript.com)<br/> 
+[MongoDB Cloud](https://account.mongodb.com/account/login)<br/> 
+[Postman API Platform](https://www.postman.com/downloads/)<br/>
+
+
+
+
+
 
 
 
