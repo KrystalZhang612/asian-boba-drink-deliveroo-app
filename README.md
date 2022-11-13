@@ -74,7 +74,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [MongoDB Cloud](https://account.mongodb.com/account/login)<br/> 
 [Postman API Platform](https://www.postman.com/downloads/)<br/>
 <div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCODE" alt ="VSCODE" width= "60" height = "60"/>&nbsp; 
   <img src =  "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NEXTJS" alt ="NEXTJS" width= "60" height = "60"/>&nbsp; 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title = "YARN" alt ="YARN" width= "60" height = "60"/>&nbsp; 
   
 </div>
 
