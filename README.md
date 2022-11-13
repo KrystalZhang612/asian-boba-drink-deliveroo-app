@@ -173,8 +173,46 @@ To enable arrow left and arrow right to be clickable, add transform effect to tr
 
 <img wdith = "1961" alrt ="left right click arrow to switch the featured items" src = "https://user-images.githubusercontent.com/72481348/201525271-7f59b576-3621-4f3d-ab45-a50a0683b410.mov">
 
+## ***Listing products:***
+Import boba cards template image and template details, and add CSS stylings to the details:
+```css
+ .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d1411e;
+} .price{
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+} .desc{
+    text-align: center;
+    color: #777;
+}
+```
+[template products listings displayed.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/template%20products%20listings%20displayed.png)<br/>
+## ***Design Footer:***
+Import footer contact infos in [Footer.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/components/Footer.jsx):
+```JavaScript 
+<div className={styles.item}>
+  SHOP</h1>
+<div className={styles.card}></div>
+<h2 className={styles.motto}>
+    OH YES, WE DID. THE KRYSTAL BOBA,
+    WELL BLENDED REFRESHING CUP OF BOBA.
+</h2>
+<div className={styles.card}>
+    <h1 className={styles.title}>FIND OUR BOBA
+    <p className={styles.text}>
+        3638 R. Nob Hill Street #304.
+        <br /> San Francisco, 94105
+        <br /> (415) 555-7372
+</p>...
+```
+Add corresponding CSS stylings and footer design is done:<br/> 
+[footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/footer%20design%20is%20done.png)<br/>
+## ***Product Page Design:***
 
-
+# Debugging&Troubleshooting
 
 
 
@@ -193,6 +231,11 @@ To enable arrow left and arrow right to be clickable, add transform effect to tr
 [order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
 [navigation bar design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/navigation%20bar%20design%20is%20done.png)<br/>
 [imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
+[template products listings displayed.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/template%20products%20listings%20displayed.png)<br/>
+[footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/footer%20design%20is%20done.png)<br/>
+
+
+
 
 
 
