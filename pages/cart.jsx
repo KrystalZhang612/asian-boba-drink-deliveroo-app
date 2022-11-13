@@ -4,7 +4,6 @@ import Image from "next/image";
 const cart = () => {
     return (
         <div className={styles.container}>
-
             <div className={styles.left}>
                 <table className={styles.table}>
                     <tbody className={styles.tbody}>
@@ -153,5 +152,4 @@ const cart = () => {
         </div>
     );
 };
-
 export default cart; 
