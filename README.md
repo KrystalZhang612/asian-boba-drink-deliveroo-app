@@ -73,6 +73,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [JavaScript](www.javascript.com)<br/> 
 [MongoDB Cloud](https://account.mongodb.com/account/login)<br/> 
 [Postman API Platform](https://www.postman.com/downloads/)<br/>
+<div>
+  <img src =  "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NEXTJS" alt ="NEXTJS" width= "60" height = "60"/>&nbsp; 
+  
+</div>
 
 
 
