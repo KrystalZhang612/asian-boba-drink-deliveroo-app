@@ -105,7 +105,7 @@ yarn dev
 ```
 # Synchronous Developing Notes
 ## ***NavBar Design:***
-Create a basic template inn [Navbar.jsx]().
+Create a basic template inn [Navbar.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/components/Navbar.jsx).<br/>
 
 
 
