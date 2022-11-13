@@ -26,6 +26,7 @@
     align-items: center;
     animation: inProgress 1s ease infinite alternate; 
 }
+
 @keyframes inProgress{
     from {
         opacity: 0; 
