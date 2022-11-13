@@ -7,6 +7,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### ***Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, including unauthorized modifications, forks, pull requests, and other commercial-related uses will be subjected to copyright violation with sebsequent legal concerns.***
 
 ## Asian Boba Drink Deliveroo AppApp Overview: 
+https://user-images.githubusercontent.com/72481348/201518543-33109de2-196f-4154-b8a4-b67d1e46b1b2.mov
+<img width="1691" alt="Asian Boba Drink Deliveroo App Overview-2" src="https://user-images.githubusercontent.com/72481348/201518554-5326f948-e703-4b26-bcbd-b77e5b4f0e3a.png">
+
+
+
+
+
+
+
 
 
 
