@@ -80,6 +80,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <img src = "https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title = "NPM" alt ="NPM" width= "60" height = "60"/>&nbsp; 
   <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACTJS" alt ="REACTJS" width= "60" height = "60"/>&nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" alt ="JAVASCRIPT" width= "60" height = "60"/>&nbsp; 
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title = "MONGODB" alt ="MONGODB" width= "60" height = "60"/>&nbsp; 
   
 </div>
 
