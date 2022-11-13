@@ -164,6 +164,7 @@ Add horizontal slider to allow user to slide to view featured items horizontally
     position: relative;
 ```
 
+<img width = "1961" alt = "Featured items can be slided horizontally" src ="https://user-images.githubusercontent.com/72481348/201525077-bea1f247-912b-4d7b-af86-69249556f2e4.mov">
 
 
 
