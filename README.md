@@ -78,6 +78,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <img src =  "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title = "NEXTJS" alt ="NEXTJS" width= "60" height = "60"/>&nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title = "YARN" alt ="YARN" width= "60" height = "60"/>&nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title = "NPM" alt ="NPM" width= "60" height = "60"/>&nbsp; 
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACTJS" alt ="REACTJS" width= "60" height = "60"/>&nbsp; 
   
 </div>
 
