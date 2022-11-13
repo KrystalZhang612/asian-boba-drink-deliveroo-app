@@ -211,20 +211,64 @@ Import footer contact infos in [Footer.jsx](https://github.com/KrystalZhang612/K
 Add corresponding CSS stylings and footer design is done:<br/> 
 [footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/footer%20design%20is%20done.png)<br/>
 ## ***Product Page Design:***
+Import different sizes, additional ingredients(toppings) for boba drinks as options in html checkbox format and also import button for add to cart in [[id].jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/pages/product/%5Bid%5D.jsx):
+```JavaScript 
+return (
+        <div className={styles.container}>
+            <div className={styles.left}>
+                <div className={styles.imgContainer}>
+                    <Image src={boba.img} objectFit="contain"
+layout="fill" alt="" />
+                </div>
+            </div>
+            <div className={styles.right}>
+                <h1 className = {styles.title}>{boba.name}</h1>
+                <span className =
+{styles.price}>${boba.price[size]}</span>
+setSize(0)}>
+alt =""/>
+<p className = {styles.desc}>{boba.desc}</p>
+<h3 className = {styles.choose}>Choose the size</h3>
+<div className = {styles.sizes}>
+    <div className = {styles.size} onClick = {()=>
+        <Image src = "/img/size.png" layout = "fill"
+        <span className = {styles.number}>Small</span>
+    </div>
+    <div className = {styles.size} onClick = {()=>
+        <Image src = "/img/size.png" layout = "fill"
+        <span className =
+setSize(1)}>
+alt = ""/>
+{styles.number}>Medium</span>
+setSize(2)}>
+alt =""/>
+toppings!</h3>
+    </div>
+    <div className = {styles.size} onClick = {()=>
+        <Image src = "/img/size.png" layout = "fill"
+        <span className = {styles.number}>Large</span>
+    </div>
+</div>
+<h3 className = {styles.choose}> Choose additional
+<div className = {styles.ingredients}>
+    <div className = {styles.option}>
+<input...
+```
+
+
+
+
+
+
+
+
 
 # Debugging&Troubleshooting
-
-
-
-
-
-
-
-
-
-
-
-
+ CSS ERROR: Product not showing in localhost:3000/product/213 page. <br/>
+ DEBUGGING: In [Product.module.css](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/styles/Product.module.css). Leave space for 
+ ```css
+ height: calc(100vh - 100px);
+```
 
 # Testing Result 
 [red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
