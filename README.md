@@ -121,8 +121,22 @@ import Image from "next/image";
 ```
 Order Now telephone symbol is imported:<br/> 
 [order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
-
-
+Import and add more CSS stylings designs to the list items and cart:
+```css
+.counter{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #ff00aa;
+```
 
 
 
