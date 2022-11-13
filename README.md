@@ -34,7 +34,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [Debugging&Troubleshooting](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#debuggingtroubleshooting)<br/> 
 [Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#synchronous-developing-notes)<br/> 
 [Testing Result](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#testing-result)<br/> 
-[Tags and Topics]() 
+[Tags and Topics](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#tags-and-topics) 
 # Contribution
 [Author]()
 # Functionalities/Demo
@@ -348,6 +348,36 @@ DEBUGGING: Latest React server not comfortable with using table without having t
 `NOTE`: Use `display: flex` in CSS `container` to make items align horizontally.<br/>
 [order status page design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20status%20page%20design%20is%20done.png)<br/> 
 # Tags and Topics
+full-stack, responsive, next-js, front-end, back-end, mongoDB, api, mongoDB-integration, admin-dashboard, redux-js, sever-side-rendering, cookies-for-authentication, vscode, yarn, npm-package, npx, react-jsx-javascript-xml, shell, bash-shell, mongoDB-cloud, postman-api-platform, localhost, css, html, javascript, react-js. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
