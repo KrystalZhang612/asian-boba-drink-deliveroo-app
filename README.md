@@ -347,7 +347,7 @@ DEBUGGING: Latest React server not comfortable with using table without having t
 [shopping cart total page for checkout.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/shopping%20cart%20total%20page%20for%20checkout.png)<br/>
 `NOTE`: Use `display: flex` in CSS `container` to make items align horizontally.<br/>
 [order status page design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20status%20page%20design%20is%20done.png)<br/> 
-
+# Tags and Topics
 
 
 
