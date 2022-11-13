@@ -171,6 +171,8 @@ To enable arrow left and arrow right to be clickable, add transform effect to tr
 <div className={styles.wrapper} style={{transform: `translateX(${-100*index}vw)`}}>
 ```
 
+<img wdith = "1961" alrt ="left right click arrow to switch the featured items" src = "https://user-images.githubusercontent.com/72481348/201525271-7f59b576-3621-4f3d-ab45-a50a0683b410.mov">
+
 
 
 
