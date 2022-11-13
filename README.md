@@ -166,6 +166,10 @@ Add horizontal slider to allow user to slide to view featured items horizontally
 
 <img width = "1961" alt = "Featured items can be slided horizontally" src ="https://user-images.githubusercontent.com/72481348/201525077-bea1f247-912b-4d7b-af86-69249556f2e4.mov">
 
+To enable arrow left and arrow right to be clickable, add transform effect to translateX:
+```JavaScript
+<div className={styles.wrapper} style={{transform: `translateX(${-100*index}vw)`}}>
+```
 
 
 
@@ -187,6 +191,7 @@ Add horizontal slider to allow user to slide to view featured items horizontally
 [order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
 [navigation bar design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/navigation%20bar%20design%20is%20done.png)<br/>
 [imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
+
 
 
 
