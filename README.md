@@ -44,6 +44,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - The customer will be redirected to the order status page to track after submitting payment. - The user can see all their previous orders and their payment statuses: paid/unpaid.
 - As the merchant/Admin, we can always add new items(new boba drinks) to the homepage.
 
+# Compatibility
+|  Browsers          | Supported          |
+| -------            | ------------------ |
+| Google Chrome      | :white_check_mark: |
+| Microsoft Edge     | :white_check_mark: |
+| Firefox            | :white_check_mark: |
+| Apple Safari       | :white_check_mark: |
+| Opera              | :white_check_mark: |
+| DuckDuckGo         | :white_check_mark: |
 
 
 
