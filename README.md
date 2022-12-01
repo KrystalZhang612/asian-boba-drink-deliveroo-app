@@ -337,6 +337,18 @@ DEBUGGING: Latest React server not comfortable with using table without having t
 
 # Testing Result 
 
+<p align = "center">
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/red%20navbar%20slider%20test.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/order%20now%20telephone%20symbol%20imported.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/imported%20featured%20item%20picture%20layout%20properly.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/template%20products%20listings%20displayed.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/footer%20design%20is%20done.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/product%20page%20is%20done%20designing.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/shopping%20cart%20total%20page%20for%20checkout.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/order%20status%20page%20design%20is%20done.PNG">&nbsp;
+</p>
+
+
 # Tags and Topics
 full-stack, responsive, next-js, front-end, back-end, mongoDB, api, mongoDB-integration, admin-dashboard, redux-js, sever-side-rendering, cookies-for-authentication, vscode, yarn, npm-package, npx, react-jsx-javascript-xml, shell, bash-shell, mongoDB-cloud, postman-api-platform, localhost, css, html, javascript, react-js. 
 # Author
