@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## ***[Copyright and Commercial Use Disclaimer](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/README.md#asian-boba-drink-deliveroo-appapp-overview)***
 ⏬
 
-### ***Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, including unauthorized modifications, forks, pull requests, and other commercial-related uses will be subjected to copyright violation with sebsequent legal concerns.***
+### ***Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, will be subjected to copyright violation with sebsequent potential legal concerns.***
 
 ## Asian Boba Drink Deliveroo AppApp Overview: 
 <img width = "1691" alt ="Asian Boba Drink Deliveroo App Overview-1" src ="https://user-images.githubusercontent.com/72481348/201518543-33109de2-196f-4154-b8a4-b67d1e46b1b2.mov"/> 
@@ -81,7 +81,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACTJS" alt ="REACTJS" width= "60" height = "60"/>&nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" alt ="JAVASCRIPT" width= "60" height = "60"/>&nbsp; 
   <img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title = "MONGODB" alt ="MONGODB" width= "60" height = "60"/>&nbsp; 
-  <img src ="https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/postmanapi%20logo.png" title = "POSTMANAPI" alt ="POSTMANAPI" width= "60" height = "60"/>&nbsp; 
+
 </div>
 
 
