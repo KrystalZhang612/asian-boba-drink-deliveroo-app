@@ -112,7 +112,7 @@ Create [Navbar.module.css](https://github.com/KrystalZhang612/KrystalZhang612-As
     background-color: red;
 ```
 Test if navbar CSS styling works:<br/>
-[red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
+[red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/red%20navbar%20slider%20test.PNG)<br/>
 In [Navbar.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/components/Navbar.jsx):
 ```JavaScript 
 import Image from "next/image";
@@ -120,7 +120,7 @@ import Image from "next/image";
   <Image src="/img/telephone.png" alt="" width="32" height="32" />
 ```
 Order Now telephone symbol is imported:<br/> 
-[order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
+[order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/order%20now%20telephone%20symbol%20imported.PNG)<br/> 
 Import and add more CSS stylings designs to the list items and cart:
 ```css
 .counter{
@@ -137,7 +137,6 @@ Import and add more CSS stylings designs to the list items and cart:
     font-weight: bold;
     color: #ff00aa;
 ```
-[navigation bar design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/navigation%20bar%20design%20is%20done.png)<br/>
 ## ***Slider Design:***
 Import popular featured items with customized copyrighted images and set layout as fill:
 ```JavaScript 
@@ -150,7 +149,7 @@ Import popular featured items with customized copyrighted images and set layout 
          </div>
 ```
 Now imported featured items images displayed and size filled out the background properly:<br/> 
-[imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
+[imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/imported%20featured%20item%20picture%20layout%20properly.PNG)<br/>
 Add horizontal slider to allow user to slide to view featured items horizontally:
 ```css
 .wrapper{
@@ -189,7 +188,7 @@ Import boba cards template image and template details, and add CSS stylings to t
     color: #777;
 }
 ```
-[template products listings displayed.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/template%20products%20listings%20displayed.png)<br/>
+[template products listings displayed.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/template%20products%20listings%20displayed.PNG)<br/>
 ## ***Design Footer:***
 Import footer contact infos in [Footer.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/components/Footer.jsx):
 ```JavaScript 
@@ -209,7 +208,7 @@ Import footer contact infos in [Footer.jsx](https://github.com/KrystalZhang612/K
 </p>...
 ```
 Add corresponding CSS stylings and footer design is done:<br/> 
-[footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/footer%20design%20is%20done.png)<br/>
+[footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/footer%20design%20is%20done.PNG)<br/>
 ## ***Product Page Design:***
 Import different sizes, additional ingredients(toppings) for boba drinks as options in html checkbox format and also import button for add to cart in [[id].jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/pages/product/%5Bid%5D.jsx):
 ```JavaScript 
@@ -255,7 +254,7 @@ toppings!</h3>
 <input...
 ```
 Modify all icons, buttons and checkboxes stylings then we got:<br/> 
-[product page is done designing.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/product%20page%20is%20done%20designing.png)<br/>
+[product page is done designing.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/product%20page%20is%20done%20designing.PNG)<br/>
 ## ***Shopping Cart Design:***
 Import shopping cart items in [cart.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/pages/cart.jsx):
 ```JavaScript 
@@ -290,7 +289,7 @@ Adjust shopping cart icon and its button CSS stylings in [cart.module.css](https
 }
 ```
 Now we have a well-designed shopping cart page at localhost:3000/cart:<br/>
-[shopping cart total page for checkout.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/shopping%20cart%20total%20page%20for%20checkout.png)<br/>
+[shopping cart total page for checkout.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/shopping%20cart%20total%20page%20for%20checkout.PNG)<br/>
 ## ***Order Tracking Pages:***
 Create different statuses in [id.jsx](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/pages/orders/%5Bid%5D.jsx) and import corresponding images:
 ```JavaScript
@@ -320,7 +319,7 @@ Add CSS animation stylings to the order status in [Order.module.css](https://git
     animation: inProgress 1s ease infinite alternate;
 }
 ```
-[order status page design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20status%20page%20design%20is%20done.png)<br/> 
+[order status page design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/testing-result-asian-boba-drink-deliveroo-app/order%20status%20page%20design%20is%20done.PNG)<br/> 
 Next.js responsive page design:<br/> 
 Use `@media screen and (max-width: 480px){...}` to make responsive effects.<br/> 
 Add multiple boba cards in the homepage.
@@ -337,16 +336,7 @@ DEBUGGING: Latest React server not comfortable with using table without having t
 `<table><tbody><tr>...</tr></tbody></table>`. 
 
 # Testing Result 
-[red navbar slider test.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/red%20navbar%20slider%20test.png)<br/>
-[order now telephone symbol imported.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20now%20telephone%20symbol%20imported.png)<br/> 
-[navigation bar design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/navigation%20bar%20design%20is%20done.png)<br/>
-[imported featured item picture layout properly.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/imported%20featured%20item%20picture%20layout%20properly.png)<br/>
-[template products listings displayed.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/template%20products%20listings%20displayed.png)<br/>
-[footer design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/footer%20design%20is%20done.png)<br/>
-[product page is done designing.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/product%20page%20is%20done%20designing.png)<br/>
-[shopping cart total page for checkout.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/shopping%20cart%20total%20page%20for%20checkout.png)<br/>
-`NOTE`: Use `display: flex` in CSS `container` to make items align horizontally.<br/>
-[order status page design is done.PNG](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/order%20status%20page%20design%20is%20done.png)<br/> 
+
 # Tags and Topics
 full-stack, responsive, next-js, front-end, back-end, mongoDB, api, mongoDB-integration, admin-dashboard, redux-js, sever-side-rendering, cookies-for-authentication, vscode, yarn, npm-package, npx, react-jsx-javascript-xml, shell, bash-shell, mongoDB-cloud, postman-api-platform, localhost, css, html, javascript, react-js. 
 # Author
