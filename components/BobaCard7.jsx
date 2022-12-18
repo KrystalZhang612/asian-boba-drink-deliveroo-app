@@ -1,5 +1,5 @@
 import styles from "../styles/BobaCard.module.css";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 const BobaCard7 = () => {
     return (
@@ -8,7 +8,7 @@ const BobaCard7 = () => {
             <h1 className={styles.title}> OREO SLUSH BOBA</h1>
             <span className={styles.price}>$7.99</span>
             <p className={styles.desc}>
-                We take Oreos and enhance the flavor with premium Hershey's chocolate <br />
+                We take Oreos and enhance the flavor with premium Hershey chocolate <br />
                 and vanilla syrups. Blend it all together and you get a creamy,<br />
                 cookies and cream dream! <br />
                 The strong oreo chips flavor will make you go insane!
