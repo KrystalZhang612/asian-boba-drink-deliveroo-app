@@ -1,5 +1,5 @@
 import styles from "../styles/BobaCard.module.css";
-import Image from "next/image";
+import Image from "next/legacy/image"; 
 
 const BobaCard5 = () => {
     return (
@@ -16,4 +16,4 @@ const BobaCard5 = () => {
         </div>
     )
 }
-export default BobaCard5
+export default BobaCard5; 
