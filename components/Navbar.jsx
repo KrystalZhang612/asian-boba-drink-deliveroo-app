@@ -1,5 +1,5 @@
 import styles from "../styles/Navbar.module.css"
-import Image from "next/image";
+import Image from "next/legacy/image"; 
 
 const Navbar = () => {
     return (
@@ -33,4 +33,4 @@ const Navbar = () => {
         </div>
     );
 };
-export default Navbar 
+export default Navbar; 
