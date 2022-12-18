@@ -1,5 +1,5 @@
 import styles from "../styles/BobaCard.module.css";
-import Image from "next/image";
+import Image from "next/legacy/image";
 
 const BobaCard6 = () => {
     return (
@@ -10,10 +10,10 @@ const BobaCard6 = () => {
             <p className={styles.desc}>
                 The flavor of jasmine milk tea could best be described <br />
                 as floral, delicate, and slightly sweet. However, this can vary<br />
-                widely depending on the tea variety you're drinking and how well you brewed <br />
+                widely depending on the tea variety you are drinking and how well you brewed <br />
                 it. To enjoy this drink to its fullest, learn more about its history.
             </p>
         </div>
     )
 }
-export default BobaCard6
+export default BobaCard6; 
