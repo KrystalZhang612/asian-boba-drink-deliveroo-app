@@ -57,6 +57,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # Method to Run & Test the Project Locally
 
 ### First, run the development server:
+### Run `npm install` to initialize node.js
 ### `npm run dev` or `yarn dev`
 ### Replace `YOUR OWN MONGO CLUSTER USERNAME` and `YOUR OWN MONGO CLUSTER PASSWORD` with your own username and password obtained from MongoDB in [.env](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/.env)
 ### Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
