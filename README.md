@@ -59,7 +59,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### First, run the development server:
 ### Run `npm install` to initialize node.js
 ### `npm run dev` or `yarn dev`
-### Replace `YOUR OWN MONGO CLUSTER USERNAME` and `YOUR OWN MONGO CLUSTER PASSWORD` with your own username and password obtained from MongoDB in [.env](https://github.com/KrystalZhang612/KrystalZhang612-Asian-Boba-Drink-Deliveroo-App/blob/main/.env)
+Create a new file named `.env`in the project root directory: 
+```env
+MONGO_URL = mongodb+srv://YOUR-OWN-MONGO-CLUSTER-USERNAME:YOUR-OWN-MONGO-CLUSTER-PASSWORD@cluster0.iz5m7np.mongodb.net/?retryWrites=true&w=majority
+```
+Replace `YOUR OWN MONGO CLUSTER USERNAME` and `YOUR OWN MONGO CLUSTER PASSWORD` with your own username and password obtained from MongoDB. 
 ### Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 ### You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 ### Homepage: http://localhost:3000/ 
